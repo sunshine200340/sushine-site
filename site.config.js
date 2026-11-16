@@ -37,7 +37,7 @@ window.SITE_CONFIG = {
     },
     "column.xiaobaotong": {
       platform: "小报童 · 认知专栏",
-      url: ""
+      url: "https://xiaobot.net/p/sunshine666?refer=e5d7cf56-1180-4924-821c-54822c2bc446"
     },
     "community.zhishixingqiu": {
       platform: "知识星球",
