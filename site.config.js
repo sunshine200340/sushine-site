@@ -14,7 +14,7 @@ window.SITE_CONFIG = {
     tagline: "把复杂的事讲清楚",
     intro:
       "跨境电商创业者、企业数字化转型实践者、内容创作者。写认知、聊法律、做业务，也在认真把一件事从头做完整。",
-    email: "qiangdao@163.com"
+    email: "qiangda68@163.com"
   },
 
   // 各平台链接：key 与 index.html 中的 data-link-key 一一对应
